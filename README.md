@@ -52,10 +52,10 @@ Requires iOS 8.0 or later.
 
 ## No License
 
-Copyright © 2016 Justin Bush. All rights reserved.
+Copyright © 2017 Justin Bush. All rights reserved.
 
 ```
-Copyright © 2016 Justin Bush
+Copyright © 2017 Justin Bush
 
 http://choosealicense.com/licenses/no-license/
 http://choosealicense.com/no-license/
